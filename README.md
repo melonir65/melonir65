@@ -6,5 +6,3 @@ Sou Rafael Meloni, 41 anos, natural de São Paulo, SP. Com a conclusão do meu B
 
 [![Anurag's GitHub stats](https://github-readme-stats-pied-gamma-96.vercel.app/api?username=melonir65&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-pied-gamma-96.vercel.app/api/top-langs/?username=melonir65&layout=donut&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats-pied-gamma-96.vercel.app/api/pin/?username=melonir65&repo=CRUD-Demo&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)     
-[![Readme Card](https://github-readme-stats-pied-gamma-96.vercel.app/api/pin/?username=melonir65&repo=DScommerce&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
